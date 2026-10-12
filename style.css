@@ -42,3 +42,4 @@ form textarea{height:90px;resize:vertical}
 form button{width:100%;margin-top:16px;padding:10px;background:#13877b;color:#fff;border:0;border-radius:5px;cursor:pointer}
 form button:hover{background:#0f6b61}
 @media(max-width:800px){.navbar{flex-wrap:wrap;height:auto;padding:8px 12px;gap:6px}.links{margin:0}.search input{width:140px}main{padding:150px 6% 40px 14%}h1{font-size:2.2rem}}
+#hero.hidden{display:none}
